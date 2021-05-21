@@ -1,6 +1,6 @@
 using HotChocolate.Types;
 
-namespace hotchocolate_directive_example
+namespace Example
 {
     public class FooDirectiveType : DirectiveType<FooDirective>
     {

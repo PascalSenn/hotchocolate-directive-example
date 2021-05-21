@@ -1,7 +1,7 @@
 using System.Threading.Tasks;
 using HotChocolate.Resolvers;
 
-namespace hotchocolate_directive_example
+namespace Example
 {
     public class FooMiddleware
     {

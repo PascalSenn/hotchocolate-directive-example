@@ -1,6 +1,6 @@
 using HotChocolate;
 
-namespace hotchocolate_directive_example
+namespace Example
 {
     public class FooDirective
     {
